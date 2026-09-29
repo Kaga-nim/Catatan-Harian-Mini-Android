@@ -25,7 +25,7 @@ Bagi pengguna atau rekan yang ingin langsung mencoba aplikasi ini di perangkat A
 
 📌 **Lokasi File APK:**
 ```
-app/build/outputs/apk/debug/app-debug.apk
+app-debug.apk (di direktori utama / root project)
 ```
 
 ### Cara Install File APK:
